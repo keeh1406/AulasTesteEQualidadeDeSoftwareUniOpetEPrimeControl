@@ -1,0 +1,85 @@
+Qualidade de Software:
+Garante a funcionalidade, segue requisitos. É a totalidade de caracterísitcas de um produto de software que lhe confere a 
+capacidade de satisfazer necessidades expecíficas e implícitas.
+
+Objetivo do teste:
+Encontrar defeitos, o mais cedo possivel e garantir que sejam corrigidos.
+
+Testes:
+Não mostram a ausência de bugs. Basea-se nos requisitos dos sistemas(também requisitos não funionais), pois com eles que utiliza-se de base 
+para fazer todos os testes.
+
+CMNI:
+Sempre trabalha com a melhoria da empresa de desenvolvimento de tecnologia.
+
+Analista QA:
+Questiona a especificação.
+
+Ágil:
+Se houver um bug em produção, a metodologia ágil gera, desenvolve e entrega o produto, ou seja, permite que melhore 
+o sistema mais rapido que a metologia normal. 
+
+Cerimônia do Ágil:
+--> Planejamento da Sprint
+--> Reunião Diária
+--> Revisão da Sprint
+--> Retrospectiva da Sprint
+
+Sprint:
+Tempo de espera/demora para atualização, período de entrega (semanal, mensal, diária).
+
+Sprint BackLog:
+Atividade, ferramenta que ficou pra trás.
+
+PO - Product Owner:
+Dono do produto, define o que vai ser entregue, o que a ferramenta vai ter que fazer em determinado momento, o que vai entrra ou nao, o que vai ser 
+urgente ou não.
+
+SM - ScrumMaster:
+Gerencia tudo o que o PO pede, o que pode e o que não deve entrar.
+
+Tradicional:
+--> Análise
+--> Design
+--> Implementação
+--> Testes
+--> Implantação
+--> Manutenção
+
+Requisito Funcional:
+Define uma função de um sistema de software ou sem componente. Representa o que o software faz, em termos de tarefas e serviços.
+
+Requisito Não Funcional:
+Fala sobre aquilo que não faz parte da funcionalidade, mas também que tem que tomar cuidado.
+
+Regra de Negócio:
+São declarações sobre a forma da empresa fazer negócios, regras que as funcionalidades e os requisitos irão ter.
+
+Testes Tradicionais:
+--> Testes feitos após o desenvolvimento
+--> Documentação é a base para os testes
+--> Equipes trabalham remotamente
+--> Testes focados na Interface do Usuário
+--> QA é a unica responsável pela qualidade
+--> Procura bugs
+--> Atende requisitos
+--> Auditor da qualidade
+--> Está separado da equipe de desenvolvimento
+--> Teste é uma fase ao final do desenvolvimento
+
+Testes Ágeis:
+--> Teste são feitos durante o desenvolvimento
+--> Testes complementam a documentação
+--> Testes compartilham o conhecimento
+--> Testes em todas as camadas da arquitetura
+--> Programadores testam, testadores testam e usuários testam
+--> Previne bugs
+--> Está atento as expectativas do cliente
+--> Aberto a novas ideias
+--> Consultor de qualidades
+--> Trabalha junto com a equipe de desenvolvimento
+--> A garantia de qualidade é a parte de todo o processo de desenvolvimento
+
+Bug:
+falha, ou erro em um programa computacional, anomalia de sistemas, o que impede de se comportar como pretendido. A maioria dos erros são causados por compiladores 
+produzindo um código inválido.
